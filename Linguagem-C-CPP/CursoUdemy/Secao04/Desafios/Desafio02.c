@@ -4,9 +4,7 @@
 #define COLUMNMATRIZ 2
 
 int main() {
-
     printf("Insira os valores na matriz 2x2\n");
-
     int matriz[LINEMATRIZ][COLUMNMATRIZ];
 
     for (int i = 0; i < LINEMATRIZ; i++) {
